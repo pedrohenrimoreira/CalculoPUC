@@ -120,6 +120,7 @@ informada em metros cubicos pelo usuário e retornar o valor correspondente
     }
     return soma;
   }
+  
   public static void main(String[] args) {
     double arr[] = new double[7];   
     double consumo;//declara o consumo em metros cúbicos
