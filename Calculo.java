@@ -9,7 +9,7 @@ public class Calculo{
     double fixaEsgoto = 13.03; // taxa fixa de esgoto
     double fixaTotal = fixaAgua + fixaEsgoto;
     System.out.println(" TAXA FIXA:            de esgoto R$"+ fixaEsgoto +"            de água R$"+ fixaAgua);
-    System.out.println("Faixa de consumo:     Gasto em m³         Valor ");
+    System.out.println("\nFaixa de consumo:     Gasto em m³         Valor \n");
     arr[0] = fixaTotal;
     return 0;
   }
