@@ -1,3 +1,6 @@
+//Autor: Pedro Henrique Moreira
+//trabalho de calculo sobre consumo de agua em Java.
+
 public class Calculo{
   static double faixaF(double vet[]) // Faixa 1 detalha o consumo para zero metros cúbicos
 
