@@ -1,9 +1,12 @@
 //Autor: Pedro Henrique Moreira
-//trabalho de calculo sobre consumo de agua em Java.
+//trabalho de calculo sobre consumo de água em Java.
 
 public class Calculo{
   static double faixaF(double arr[]) 
-
+/*cada funcao criada nessa classe tem como objetivo identificar a faixa de consumo 
+informada em metros cubicos pelo usuário e retornar o valor correspondente
+*/
+    
   {
     double fixaAgua = 17.61; // taxa fixa de água
     double fixaEsgoto = 13.03; // taxa fixa de esgoto
